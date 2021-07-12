@@ -1163,7 +1163,7 @@ yellow='\033[33;1m'
 # https://codingan/by/mr-virus-spm.index.html/bused-slebew
 # https://codingan/by/mr-virus-spm.index.html/bused-slebew
 clear
-xdg-open https://youtube.com/channel/UCIEWrGcR1N4v4eIkVh3mX8Q
+xdg-open https://youtube.com/channel/UCSJohuQCtqfD2P73Z65g8jg
 echo $green
 # https://codingan/by/mr-virus-spm.index.html/bused-slebew
 # https://codingan/by/mr-virus-spm.index.html/bused-slebew
